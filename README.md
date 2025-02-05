@@ -1,4 +1,4 @@
-# randomm_name
+# random_name
 
 A new Flutter project.
 
